@@ -1,4 +1,8 @@
 // Add your functions and code here
-function destructivelyAppendKittens(name) {
+function destructivelyAppendKitten(name) {
   kittens.push(name)
+}
+
+function destructivelyAppendKittens() {
+  
 }
