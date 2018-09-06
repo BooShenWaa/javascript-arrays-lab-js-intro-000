@@ -4,5 +4,5 @@ function destructivelyAppendKitten(name) {
 }
 
 function destructivelyAppendKittens() {
-  
+
 }
